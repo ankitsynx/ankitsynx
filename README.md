@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**ankitsynx/ankitsynx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### 
 Quick ones about me:
 
 - 🔭 I’m currently working on Defining and Desiging Security Architectures and related Automations
@@ -11,4 +7,9 @@ Quick ones about me:
 - 💬 Ask me about : Enterprise Security on cloud and on-premise
 - 📫 How to reach me: @ankitsynX on Twitter
 - ⚡ Fun fact: Nothing is hackproof!
+
+
+<!--
+**ankitsynx/ankitsynx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
